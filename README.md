@@ -8,7 +8,6 @@ This repository contains the Python scripts used in the research paper:
 
 - **Title:** Assessing GPT Model Uncertainty in Mathematical OCR Tasks via Entropy Analysis
 - **Author:** Alexei Kaltchenko
-- **Journal:** Journal of Applied Mathematics and Computing (Submitted)
 
 The project investigates the uncertainty of GPT models when extracting mathematical equations from images of varying resolutions and converting them into LaTeX code. By employing concepts of entropy and mutual information, we assess the model's uncertainty in this specialized OCR task.
 
