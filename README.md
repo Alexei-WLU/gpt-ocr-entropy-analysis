@@ -37,8 +37,8 @@ The project investigates the uncertainty of GPT models when extracting mathemati
 
 The images used in this study are derived from a publicly available PDF document on arXiv:
 
-- **Title:** Asymptotic Equipartition Property for Nonidentically Distributed States
-- **Authors:** Kun Wang, Xiaoming Sun
+- **Title:** Quantum Data Compression and Quantum Cross Entropy
+- **Authors:** Zhou Shangnan
 - **arXiv Link:** [arXiv:2106.13823](https://arxiv.org/abs/2106.13823)
 
 ### Steps to Recreate the Images:
