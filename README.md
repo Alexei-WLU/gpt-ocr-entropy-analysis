@@ -91,9 +91,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 The data used in this study are derived from:
 
-- **Title:** Asymptotic Equipartition Property for Nonidentically Distributed States
-- **Authors:** Kun Wang, Xiaoming Sun
-- **arXiv Link:** [https://arxiv.org/abs/2106.13823](https://arxiv.org/abs/2106.13823)
+- **Title:** Quantum Data Compression and Quantum Cross Entropy
+- **Authors:** Zhou Shangnan
+- **arXiv Link:** [https://arxiv.org/abs/2106.13823]
 
 The use of this material is for research and educational purposes.
 
